@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tambe-bolo.bimakab.go.id/assets/js/highcharts/-/slot-deposit-pulsa/sitemap.xml
